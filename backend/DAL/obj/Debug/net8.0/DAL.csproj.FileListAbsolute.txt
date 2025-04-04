@@ -43,3 +43,4 @@ C:\Users\Usuario\Documents\3_FundaWeb\ExamenFundaWeb_Pablo\backend\DAL\obj\Debug
 C:\Users\Usuario\Documents\3_FundaWeb\ExamenFundaWeb_Pablo\backend\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\Usuario\Documents\3_FundaWeb\ExamenFundaWeb_Pablo\backend\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Usuario\Documents\3_FundaWeb\ExamenFundaWeb_Pablo\backend\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Usuario\Documents\3_FundaWeb\ExamenFundaWeb_Pablo\backend\DAL\obj\Debug\net8.0\DAL.sourcelink.json
